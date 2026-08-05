@@ -69,3 +69,7 @@ int main()
 ## Output:
 <img width="1919" height="1008" alt="Screenshot 2026-08-05 094332" src="https://github.com/user-attachments/assets/808acdef-95a1-49f6-831e-0fed6c43ca3b" />
 
+## Result:
+  The program is executed successfully
+
+
